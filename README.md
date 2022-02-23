@@ -1,8 +1,8 @@
 ### Hello, I'm Haseop Lee
 
-I am a back-end engineer
+I am a back-end engineer.
 
-I am interested in Spring Framework and DevOps. 
+I am interested in Spring Framework, DevOps and React.
 
 <div align="left" style="text-align:left;width:60%">
   
