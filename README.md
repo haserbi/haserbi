@@ -2,7 +2,7 @@
 
 I am a back-end engineer.
 
-I am interested in Spring Framework, DevOps and React.
+I am interested in Spring Framework and DevOps.
 
 <div align="left" style="text-align:left;width:60%">
   
