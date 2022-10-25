@@ -6,6 +6,6 @@ I am interested in Spring Framework and DevOps.
 
 <div align="left" style="text-align:left;width:60%">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haservi&show_icons=true&theme=dark)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haservi&show_icons=true&theme=dark&hide=issues)
  
 </div>
