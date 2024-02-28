@@ -4,24 +4,20 @@ I am a back-end engineer.
 
 I am interested in Spring Framework and DevOps.
 
-<div  align='center'>
-  <div>
-    <img alt='C++' src='https://img.shields.io/badge/-C%2B%2B-ff990a?logo=cplusplus'>
-    <img alt='Java' src='https://img.shields.io/badge/-Java-ff713d?logo=java'>
-    <img alt='HTML' src='https://img.shields.io/badge/-HTML-0096a3?logo=html5'>
-    <img alt='CSS' src='https://img.shields.io/badge/-CSS-7802cc?logo=css3'>
-    <img alt='Javascript' src='https://img.shields.io/badge/-Javascript-8c96ff?logo=javascript'>
-  </div>
-  <br>
+<div>
+  <img alt='Java' src="https://img.shields.io/badge/java-007396?&logo=Java&logoColor=white"/>
+  <img alt='Spring' src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img alt='NodeJs' src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img alt='Javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt='Typescript' src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img alt='C++' src='https://img.shields.io/badge/-C%2B%2B-ff990a?logo=cplusplus'>
+  <img alt='Flutter' src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img alt='VueJs' src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </div>
-
-<p align="center">
-  <a href="https://github.com/haservi">
-  <img decoding="async" align="center" alt="GitHub Stats" src="https://github-readme-stats-haservi.vercel.app/api?username=haservi&count_private=true&show_icons=true&theme=dark" />
-</a></p>
-
-
-
-
-
-
+<br />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=haservi&show_icons=true&theme=dark">
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haservi&layout=compact&show_icons=true&theme=dark">
+</div>
